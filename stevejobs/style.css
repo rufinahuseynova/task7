@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 65%;
+    margin: auto;
+   }
+h2,h3{
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 96%;
+}
+td:nth-child(1){
+    width: 30%;
+}
+table tr td{
+   border: 1px solid #80ced6;
+   padding: 10px;
+}
+table,section{
+    border: 1px solid #80ced6;
+    border-radius: 5px;
+    padding: 30px;
+    background-color: #f0fff8;
+    margin: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+section ul li{
+    list-style-type: square;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
